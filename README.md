@@ -26,6 +26,6 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Starkyv&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=danieldavidraj&color=orange&style=flat-square)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
